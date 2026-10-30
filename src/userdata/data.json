@@ -1,0 +1,31 @@
+[
+     {"name":"Greeen Graps",
+      "price": 100  ,
+      "img" : "./1.jpeg"
+    },
+     {"name":"Pomegranate",
+      "price": 200  ,
+       "img" : "./2.jpeg"
+    },
+     {"name":"Black graps",
+      "price": 300  ,
+       "img" : "./3.jpeg"
+    },
+     {"name":"Grape fruit",
+      "price": 400  ,
+       "img" : "./4.jpeg"
+    },
+     {"name":"Berry",
+      "price": 500 ,
+       "img" : "./5.jpeg" 
+    },
+     {"name":"lemon",
+      "price": 600 ,
+       "img" : "./6.jpeg" 
+    },
+     {"name":"Greeen Graps",
+      "price": 700  ,
+       "img" : "./7.jpeg"
+    }
+
+]
